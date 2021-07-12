@@ -12,7 +12,7 @@ The main script is a OPC UA server collecting sensor data using I2C and MQTT and
 
 This project uses the following libraries:
 * [open62541](https://github.com/open62541/open62541) for OPC UA
-* wiringPi (included by default in the Raspberry Pi OS) for I"C communication
+* wiringPi (included by default in the Raspberry Pi OS) for I2C communication
 * [mosquitto](https://github.com/eclipse/mosquitto) for mqtt
 * [jsmn](https://github.com/zserge/jsmn) for JSON messages parsing
 All libraries must be installed for the program to work with the jsmn library to be cloned in the same folder where the files in this repo are

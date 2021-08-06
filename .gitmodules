@@ -1,6 +1,4 @@
-[submodule "TC_Tummies_21"]
-	path = TC_Tummies_21
-	url = https://github.com/WaFaTum/TC_Tummies_21.git
+
 [submodule "Thirdparty/mosquitto"]
 	path = Thirdparty/mosquitto
 	url = https://github.com/eclipse/mosquitto
